@@ -1,0 +1,27 @@
+ID,Fecha,Producto,Categoría,Precio,Cantidad,Total
+1,2024-05-01,Coca Cola 1L,Bebidas,120.0,30,36000.0
+2,2024-05-02,Pan Marraqueta,Panadería,100.0,50,5000.0
+3,2024-05-03,Leche Entera 1L,Lácteos,950.0,20,19000.0
+4,2024-05-04,Pollo Entero,Kiosco,550.0,10,55000.0
+5,2024-05-05,Manzana Fuji 1kg,Frutas,120.0,15,18000.0
+6,2024-05-06,Detergente Líquido 3L,Limpieza,3500.0,5,17500.0
+7,2024-05-07,Queso Gauda 1kg,Lácteos,8500.0,8,68000.0
+8,2024-05-08,Atún en Aceite,Latas,220.0,25,55000.0
+9,2024-05-09,Shampoo 500ml,Higiene,320.0,10,32000.0
+10,2024-05-10,Papel Higiénico 4 rollos,Higiene,250.0,12,30000.0
+11,2024-05-11,Jugo Natural 1L,Bebidas,180.0,18,32400.0
+12,2024-05-12,Fideos Spaghetti 500g,Pasta,90.0,40,36000.0
+13,2024-05-13,Arroz 1kg,Granos,130.0,22,28600.0
+14,2024-05-14,Zapallo 1kg,Verduras,100.0,17,17000.0
+15,2024-05-15,Jabón de Tocador,Higiene,120.0,25,30000.0
+16,2024-05-16,Aceite Vegetal 1L,Aceites,210.0,20,42000.0
+17,2024-05-17,Yogurt Natural 1L,Lácteos,160.0,15,24000.0
+18,2024-05-18,Cereal de Maíz 500g,Cereales,28.0,10,28000.0
+19,2024-05-19,Tomate 1kg,Verduras,150.0,20,30000.0
+20,2024-05-20,Azúcar 1kg,Granos,120.0,30,36000.0
+21,2024-05-21,Salsa de Tomate 500g,Salsas,110.0,18,19800.0
+22,2024-05-22,Pan de Molde,Panadería,120.0,12,14400.0
+23,2024-05-23,Café Molido 250g,Bebidas,40.0,8,32000.0
+24,2024-05-24,Crema Dental 90g,Higiene,150.0,15,22500.0
+25,2024-05-25,Plátano 1kg,Frutas,140.0,10,14000.0
+26,2024-06-01,Coca Cola 1.5L,Bebidas,140.0,19,2660.0
